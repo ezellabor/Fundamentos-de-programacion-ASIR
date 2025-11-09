@@ -208,13 +208,10 @@ FinAlgoritmo
 ---
 
 <div style="background-color:#d9f2e6; padding:15px; border-radius:8px;">
-<h2 style="color:#006633;">Práctica guiada paso a paso</h2>
+<h2 style="color:#006633;">Desarrollo paso a paso</h2>
 
 <h3>Paso 1: Suma y resta</h3>
 <pre style="background-color:#ed# UT4 – Bucles y Repeticiones
-**Módulo:** Fundamentos de Programación  
-**Ciclo:** ASIR1  
-**Profesor:** Ezequiel Llarena Borges
 
 ---
 
