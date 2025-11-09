@@ -1,6 +1,6 @@
-# 1 – Identificadores, Variables y Constantes
-**Módulo:** Fundamentos de Programación  
-**Ciclo:** ASIR1  
+# 1 - Identificadores, Variables y Constantes
+<!--**Módulo:** Fundamentos de Programación  
+**Ciclo:** ASIR1 -->
 **Profesor:** Ezequiel Llarena Borges
 
 ---
@@ -16,7 +16,7 @@
 ---
 
 <div style="background-color:#f2f2f2; padding:15px; border-radius:8px;">
-<h2 style="color:#009966;"> Objetivos de la unidad</h2>
+<h2 style="color:#009966;"> Objetivos</h2>
 <ul>
 <li>Comprender qué son las variables y las constantes.</li>
 <li>Aprender a elegir identificadores válidos y descriptivos.</li>
@@ -28,7 +28,7 @@
 ---
 
 <div style="background-color:#e6f2f2; padding:15px; border-radius:8px;">
-<h2 style="color:#0066cc;"> Resumen teórico</h2>
+<h2 style="color:#0066cc;"> Recordemos...</h2>
 
 <p><b>Identificadores →</b> Son los nombres que damos a variables, constantes o algoritmos. Ejemplo: <code>nombreUsuario</code>, <code>precioTotal</code>, <code>edad</code>.</p>
 
@@ -52,7 +52,7 @@ precioFinal <- precio * (1 + <span style="color:#0033cc;">IVA</span>)
 ---
 
 <div style="background-color:#d9f2e6; padding:15px; border-radius:8px;">
-<h2 style="color:#006633;"> Práctica guiada paso a paso</h2>
+<h2 style="color:#006633;"> Desarrollo paso a paso</h2>
 
 <h3>Paso 1: Declara tus primeras variables</h3>
 <p>Abre PSeInt y crea un algoritmo llamado <b>Variables</b>:</p>
@@ -156,8 +156,6 @@ FinAlgoritmo
 
 ---
 # 2 – Tipos de Datos y Operadores
-**Módulo:** Fundamentos de Programación  
-**Ciclo:** ASIR1  
 **Profesor:** Ezequiel Llarena Borges
 
 ---
@@ -173,7 +171,7 @@ FinAlgoritmo
 ---
 
 <div style="background-color:#f2f2f2; padding:15px; border-radius:8px;">
-<h2 style="color:#009966;">Objetivos de la unidad</h2>
+<h2 style="color:#009966;">Objetivos</h2>
 <ul>
 <li>Conocer tipos de datos básicos en pseudocódigo.</li>
 <li>Usar operadores aritméticos, relacionales y lógicos.</li>
