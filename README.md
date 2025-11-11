@@ -1,6 +1,6 @@
 # Unidad 1 - Identificadores, Variables y Constantes
-| Fundamentos de Programación  
-| Adaptado al **CFGM Administración de Sistemas Informáticos en Red:** ASIR1 -->
+FUNDAMENTOS DE PROGRAMACIÓN
+* Adaptado al CFGM Administración de Sistemas Informáticos en Red
 **Profesor:** Ezequiel Llarena Borges
 
 ---
