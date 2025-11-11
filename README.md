@@ -1,6 +1,6 @@
 # Unidad 1 - Identificadores, Variables y Constantes
-FUNDAMENTOS DE PROGRAMACIÓN | CFGM Administración de Sistemas Informáticos en Red
-** Profesor: ** Ezequiel Llarena Borges
+##FUNDAMENTOS DE PROGRAMACIÓN | CFGM Administración de Sistemas Informáticos en Red
+**Profesor:** Ezequiel Llarena Borges
 
 ---
 
