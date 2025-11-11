@@ -142,9 +142,9 @@ Esto demuestra que las **constantes no varían durante la ejecución**.
 
 ---
 
-## Parte 5 – Reto final: “Detective de variables”
+## Parte 5 – Misión final: “Detective de variables”
 
-> **Reto:** Amplía el programa y analiza nuevas variables.
+> **Misión:** Amplía el programa y analiza nuevas variables.
 
 Añade una nueva variable llamada `ahorro`, cuyo valor sea el 10 % del nuevo sueldo.  
 
@@ -153,7 +153,7 @@ ahorro <- nuevoSueldo * 0.10
 Escribir "Ahorro mensual: ", ahorro
 ```
 
-**Preguntas:**
+**Cuestiones propuestas:**
 - ¿En qué momento se crea la variable `ahorro`?  
 - ¿Cuál es su valor antes de ejecutar la línea anterior?  
 - ¿Qué ocurre si cambias el orden de las instrucciones?
@@ -166,7 +166,7 @@ _____________________________________________________________
 
 ---
 
-## Conclusión
+## Sintesis/Conclusión de la unidad
 
 | Concepto | Observación |
 |-----------|-------------|
@@ -177,7 +177,7 @@ _____________________________________________________________
 
 ---
 
-## Recomendaciones prácticas
+## Recuerda esto...
 - Usa **F8** para avanzar y **Ctrl + F8** para saltar una función completa.  
 - Observa siempre el **panel de variables** mientras depuras.  
 - Usa el **modo lento** para seguir el flujo completo.  
@@ -186,4 +186,4 @@ _____________________________________________________________
 ---
 
 ## Extensión (opcional)
-Guarda una captura del **panel de variables** mostrando el momento en que cambian los valores y añádela a tu portfolio de aprendizaje.
+Guarda una captura del **panel de variables** mostrando el momento en que cambian los valores y añádela a tus apuntes.
