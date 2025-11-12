@@ -161,8 +161,11 @@ FinAlgoritmo
 </div>
 
 ---
+
+
 # Unidad 2 – Tipos de Datos y Operadores
 <code>Formador: Ezequiel Llarena Borges</code>
+
 ---
 
 <div style="background-color:#ccece6; padding:15px; border-radius:8px;">
