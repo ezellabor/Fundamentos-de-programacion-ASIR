@@ -163,7 +163,7 @@ FinAlgoritmo
 ---
 
 
-# Unidad 2 – Tipos de Datos y Operadores
+# UT2 – Tipos de Datos y Operadores
 <code>Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges</code>
 
 ---
@@ -300,7 +300,7 @@ FinAlgoritmo
 ---
 
 
-# Unidad 3 – Estructuras de control selectivas (condicionales)
+# UT3 – Estructuras de control selectivas (condicionales)
 <code>Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges</code>
 
 ---
