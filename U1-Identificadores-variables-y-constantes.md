@@ -2,7 +2,6 @@
 # Unidad 1 - Identificadores, variables y constantes
 
  
----
 
 <div style="background-color:#ccece6; padding:15px; border-radius:8px;">
 <h2 style="color:#006633;"> Lo que sabrás hacer al finalizar esta unidad</h2>
