@@ -458,12 +458,9 @@ FinAlgoritmo
 
 ---
 
-Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges
 
 # UT 5 – Subalgoritmos y Funciones
-**Módulo:** Fundamentos de Programación  
-**Ciclo:** ASIR1  
-**Profesor:** Ezequiel Llarena Borges
+<code>Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges</code>
 
 ---
 
@@ -607,12 +604,9 @@ FinAlgoritmo
 
 ---
 
-Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges
 
 # UT 6 – Vectores y Listas
-**Módulo:** Fundamentos de Programación  
-**Ciclo:** ASIR1  
-**Profesor:** Ezequiel Llarena Borges
+<code>Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges</code>
 
 ---
 
