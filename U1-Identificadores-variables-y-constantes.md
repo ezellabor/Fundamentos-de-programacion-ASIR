@@ -1,10 +1,10 @@
-<code>Fundamentos de Programación | Ezequiel Llarena Borges</code>
 # Unidad 1 - Identificadores, variables y constantes
 
+Al finalizar esta unidad sabrás hacer:
+- *Reconocer los elementos y estructuras básicas de un programa informático*
+- *Escribir programas sencillos aplicando buenas prácticas en el uso de variables y constantes*
 
- ---
-
-
+<!--
 <div style="background-color:#ccece6; padding:15px; border-radius:8px;">
 <h2 style="color:#006633;"> Lo que sabrás hacer al finalizar esta unidad</h2>
 <ul>
@@ -12,7 +12,7 @@
 <li>Escribir programas sencillos aplicando buenas prácticas en el uso de variables y constantes.</li>
 </ul>
 </div>
-
+-->
 ---
 
 <div style="background-color:#f2f2f2; padding:15px; border-radius:8px;">
@@ -162,6 +162,6 @@ FinAlgoritmo
 </div>
 
 
+##
 
-2025&copy Ezequiel Llarena Borges
-
+>_&copy; 2025 Fundamentos de Programación - Ezequiel Llarena Borges_
