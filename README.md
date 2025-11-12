@@ -60,11 +60,9 @@ precioFinal <- precio * (1 + <span style="color:#0033cc;">IVA</span>)
 Algoritmo Variables
    Definir <span style="color:#cc3300;">nombre</span> Como Cadena
    Definir <span style="color:#cc3300;">edad</span>, <span style="color:#cc3300;">altura</span> Como Real
-
    <span style="color:#cc3300;">nombre</span> <- "Ezequiel"
    <span style="color:#cc3300;">edad</span> <- 30
    <span style="color:#cc3300;">altura</span> <- 1.70
-
    Escribir "Hola, ", <span style="color:#cc3300;">nombre</span>
    Escribir "Tienes ", <span style="color:#cc3300;">edad</span>, " años y mides ", <span style="color:#cc3300;">altura</span>, " metros."
 FinAlgoritmo
@@ -104,7 +102,7 @@ FinAlgoritmo
 
 <!--<h3>Paso 4: Pequeño reto</h3>
 <p>Crea un algoritmo que pida nombre, edad y año actual y muestre: "Hola, Alex. Naciste en 2005."</p>
-<p>_____________________________________________________________<br>_____________________________________________________________<br>_____________________________________________________________</p>
+<code></code>
 </div>-->
 
 ---
@@ -112,20 +110,20 @@ FinAlgoritmo
 
 <div style="background-color:#f2f2f2; padding:15px; border-radius:8px;">
 <h2 style="color:#009966;">Convenciones de código</h2>
+ <p>Las convenciones de programación son un conjunto de reglas de estilo y prácticas que guían la escritura de código para que sea más legible, coherente y fácil de mantener. Estas son algunas de las principales:
+</p>
  <ul>
 <li>Uso de sangría</li>
 <li>Uso de comentarios</li>
 <li>Nombres estandarizados para variables y funciones</li>
 <li>Usar nombres descriptivos y coherentes</li>
-<li>Usar MAYÚSCULAS para las constantes</li>
+<li>Usar mayúsculas para las constantes</li>
 </ul>
  </div>
  
  ---
  
- >Conjunto de reglas de estilo y prácticas que guían la escritura de código para que sea más legible, coherente y fácil de mantener
-
----
+ 
 
 <div style="background-color:#e6f2f2; padding:15px; border-radius:8px;">
 <h2 style="color:#0066cc;">Autoevaluación</h2>
