@@ -161,9 +161,8 @@ FinAlgoritmo
 </div>
 
 ---
-# 2 – Tipos de Datos y Operadores
-**Profesor:** Ezequiel Llarena Borges
-
+# Unidad 2 – Tipos de Datos y Operadores
+<code>Formador: Ezequiel Llarena Borges</code>
 ---
 
 <div style="background-color:#ccece6; padding:15px; border-radius:8px;">
@@ -297,9 +296,9 @@ FinAlgoritmo
 
 ---
 
-Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges
-# 3 – Estructuras de Control Condicionales
-**Profesor:** Ezequiel Llarena Borges
+
+# Unidad 3 – Estructuras de control selectivas (condicionales)
+<code>Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges</code>
 
 ---
 
