@@ -1,7 +1,6 @@
 <code>Fundamentos de Programación | Ezequiel Llarena Borges</code>
 # Unidad 1 - Identificadores, variables y constantes
 
-*Contenido y ejemplos adaptados al curriculo oficial del ciclo formativo de grado medio "Administración de Sistemas Infórmaticos en Red"* 
 
  ---
 
@@ -162,8 +161,7 @@ FinAlgoritmo
 </table>
 </div>
 
----
 
 
->Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges
+2025&copy Ezequiel Llarena Borges
 
