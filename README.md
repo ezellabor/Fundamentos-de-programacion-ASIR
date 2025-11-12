@@ -30,7 +30,7 @@
 
 <p><b>Identificadores →</b> Son los nombres que damos a variables, constantes o algoritmos. Ejemplo: <code>nombreUsuario</code>, <code>precioTotal</code>, <code>edad</code>.</p>
 
-<p><b>Variables →</b> Almacenan datos que van cambiando durante la ejecución del programa.</p>
+<p><b>Variables →</b> Almacenan valores que irán cambiando durante la ejecución del programa.</p>
 <quote>Ejemplo:</quote>
 <pre style="background-color:#ededed; padding:8px; border-radius:5px;">
  Algoritmo EjemploVariable
@@ -70,7 +70,7 @@ Algoritmo Variables
 FinAlgoritmo
 </pre>
 <p>Ejecuta y observa la salida. Reflexiona: ¿qué pasa si cambias <span style="color:#cc3300;">edad</span> por "veinte"?</p>
-<p>_____________________________________________________________</p>
+<pre>contesta aqui</pre>
 
 <h3>Paso 2: Añade una constante</h3>
 <p>Define una constante llamada <span style="color:#0033cc;">IVA</span> con valor 0.21 y calcula el precio final:</p>
