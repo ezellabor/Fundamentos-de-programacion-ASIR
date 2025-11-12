@@ -1,6 +1,7 @@
-<code>Fundamentos de Programación | ASIR1 | Profesor: Ezequiel Llarena Borges</code>
+<code>Fundamentos de Programación | Ezequiel Llarena Borges</code>
 # Unidad 1 - Identificadores, variables y constantes
 
+ ---
  
 
 <div style="background-color:#ccece6; padding:15px; border-radius:8px;">
