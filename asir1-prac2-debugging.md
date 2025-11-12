@@ -19,16 +19,19 @@ layout: "default"
 
 ---
 
-## Qué se espera que logres al finalizar la práctica
+## Lo que sabrás hacer al terminar esta práctica
 
-### Resultados de aprendizaje
-- RA1: Reconocer la ejecución secuencial de instrucciones y la evolución del estado de las variables.  
-- RA2: Comprender la utilidad del depurador para analizar y corregir programas.
+<!--### Resultados de aprendizaje-->
+<ol>
+   <li>Reconocer la ejecución secuencial de instrucciones y la evolución del estado de las variables.</li>
+      <ul >
+         <li>Usa correctamente el modo “Depurar” o “Paso a paso” de PSeInt.</li>
+         <li>Interpreta los cambios de valores en las variables durante la ejecución.</li>
+         <li>Corrige errores simples observando el comportamiento de las variables.</li>
+      </ul>
+    <li>Comprender la utilidad del depurador para analizar y corregir programas.</li>
+</ol>
 
-### Criterios de evaluación
-- CE1.1: Usa correctamente el modo “Depurar” o “Paso a paso” de PSeInt.  
-- CE1.2: Interpreta los cambios de valores en las variables durante la ejecución.  
-- CE1.3: Corrige errores simples observando el comportamiento de las variables.
 
 ---
 
@@ -85,9 +88,9 @@ FinAlgoritmo
 **Anota tus observaciones:**
 
 ```
-_____________________________________________________________
-_____________________________________________________________
-_____________________________________________________________
+
+
+
 ```
 
 4. Cambia el valor de `aumento` por `50` y repite la depuración.  
