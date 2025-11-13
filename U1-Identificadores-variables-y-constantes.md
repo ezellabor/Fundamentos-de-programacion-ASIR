@@ -86,7 +86,7 @@ FinAlgoritmo
 <th style="border:1px solid #ccc; padding:4px;">¿Válido?</th>
 <th style="border:1px solid #ccc; padding:4px;">Motivo</th>
 </tr>
-<tr><td style="border:1px solid #ccc; padding:4px;"><code>2nombre</code></td><td style="border:1px solid #ccc; padding:4px;">❌</td><td>...</td></tr>
+<tr><td style="border:1px solid #ccc; padding:4px;"><code>2nombre</code></td><td style="border:1px solid #ccc; padding:4px; align:center;">❌</td><td>...</td></tr>
 <tr><td style="border:1px solid #ccc; padding:4px;"><code>_usuario</code></td><td style="border:1px solid #ccc; padding:4px;">✅</td><td>...</td></tr>
 <tr><td style="border:1px solid #ccc; padding:4px;"><code>nombre completo</code></td><td style="border:1px solid #ccc; padding:4px;">❌</td><td>...</td></tr>
 <tr><td style="border:1px solid #ccc; padding:4px;"><code>precio_total</code></td><td style="border:1px solid #ccc; padding:4px;">✅</td><td>...</td></tr>
@@ -103,7 +103,7 @@ FinAlgoritmo
 
 <div style="background-color:#f2f2f2; padding:15px; border-radius:8px;">
 <h2 style="color:#009966;">4 - Convenciones de programación</h2>
- <p>Las convenciones de programación son un conjunto de reglas de estilo y prácticas que guían la escritura de código para que sea más legible, coherente y fácil de mantener. Estas son las más comunes:
+ <p>Las convenciones de programación son un conjunto de <b>reglas de estilo y prácticas</b>> que guían la escritura de <b>código legible, coherente y fácil de mantener.</b> Estas son las más comunes:
 </p>
 </div>
  
@@ -144,10 +144,10 @@ FinAlgoritmo
 <th style="border:1px solid #ccc; padding:4px;">Descripción</th>
 <th style="border:1px solid #ccc; padding:4px;">Ejemplo</th>
 </tr>
-<tr><td style="border:1px solid #ccc; padding:4px;">Identificador</td><td style="border:1px solid #ccc; padding:4px;">Nombre de variable o constante</td><td style="border:1px solid #ccc; padding:4px;"><code>nombre_usuario</code></td></tr>
-<tr><td style="border:1px solid #ccc; padding:4px;">Variable</td><td style="border:1px solid #ccc; padding:4px;">Valor que va cambiando en tiempo de ejecución</td><td style="border:1px solid #ccc; padding:4px;"><code>edad <- 18</code></td></tr>
-<tr><td style="border:1px solid #ccc; padding:4px;">Constante</td><td style="border:1px solid #ccc; padding:4px;">Valor fijo que no cambia</td><td style="border:1px solid #ccc; padding:4px;"><code>AÑO_NACIMIENTO <- 1984</code></td></tr>
-<tr><td style="border:1px solid #ccc; padding:4px;">Tipo de dato</td><td style="border:1px solid #ccc; padding:4px;">Determina el tipo de valor</td><td style="border:1px solid #ccc; padding:4px;"><code>Número, Entero, Real, Cadena, Lógico</code></td></tr>
+<tr><td style="font-style: italic; border:1px solid #ccc; padding:4px;">Identificador</td><td style="border:1px solid #ccc; padding:4px;">Nombre de variable o constante</td><td style="border:1px solid #ccc; padding:4px;"><code>nombre_usuario</code></td></tr>
+<tr><td style="font-style: italic; border:1px solid #ccc; padding:4px;">Variable</td><td style="border:1px solid #ccc; padding:4px;">Valor que va cambiando en tiempo de ejecución</td><td style="border:1px solid #ccc; padding:4px;"><code>edad <- 18</code></td></tr>
+<tr><td style="font-style: italic; border:1px solid #ccc; padding:4px;">Constante</td><td style="border:1px solid #ccc; padding:4px;">Valor fijo que no cambia</td><td style="font-style: italic; border:1px solid #ccc; padding:4px;"><code>AÑO_NACIMIENTO <- 1984</code></td></tr>
+<tr><td style="font-style: italic; border:1px solid #ccc; padding:4px;">Tipo de dato</td><td style="border:1px solid #ccc; padding:4px;">Determina el tipo de valor</td><td style="border:1px solid #ccc; padding:4px;"><code>Número, Entero, Real, Cadena, Lógico</code></td></tr>
 </table>
 </div>
 
