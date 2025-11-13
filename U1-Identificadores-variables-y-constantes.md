@@ -1,24 +1,24 @@
-# Unidad 1 - Identificadores, variables y constantes
+# Unidad 1 | Identificadores, variables y constantes
 
 Al finalizar esta unidad sabrás hacer:
-- *Reconocer los elementos y estructuras básicas de un programa informático*
-- *Escribir programas sencillos aplicando buenas prácticas en el uso de variables y constantes*
+- *Reconocer los elementos y estructuras básicas de un programa informático.*
+- *Escribir programas sencillos aplicando buenas prácticas en el uso de variables y constantes.*
 
 ---
   
 
-## Objetivos
+## 1 - Objetivos
  
-- Comprender qué son las variables y las constantes.
-- Aprender a elegir identificadores válidos y descriptivos.
-- Diferenciar entre tipos de datos: numéricos, texto, booleanos.
-- Aplicar estos conceptos en pequeños algoritmos prácticos.
+- Comprender qué son las **variables** y las **constantes.**
+- Aprender a elegir identificadores válidos y descriptivos para variables, constantes, funciones y subprogramas.
+- Diferenciar entre **tipos de datos**: *numéricos, texto, booleanos.*
+- Aplicar estos conceptos en la implementación de pequeños algoritmos.
 
 
 ---
 
 <div style="background-color:#e6f2f2; padding:15px; border-radius:8px;">
-<h2 style="color:#0066cc;"> Conceptos clave</h2>
+<h2 style="color:#0066cc;"> 2 - Conceptos clave</h2>
 
 <p><b>Identificadores →</b> Son los nombres que damos a variables, constantes o algoritmos.</p> 
 <p>Ejemplo: <code>nombreUsuario</code>, <code>precioTotal</code>, <code>edad</code>.</p>
@@ -45,7 +45,7 @@ precioFinal <- precio * (1 + <span style="color:#0033cc;">IVA</span>)
 ---
 
 <div style="background-color:#d9f2e6; padding:15px; border-radius:8px;">
-<h2 style="color:#006633;"> Desarrollo paso a paso</h2>
+<h2 style="color:#006633;"> 3 - Desarrollo paso a paso</h2>
 
 <h3>Paso 1: Declara tus primeras variables</h3>
 <p>Abre PSeInt y crea un algoritmo llamado <b>Variables</b>:</p>
@@ -78,7 +78,7 @@ FinAlgoritmo
 <p>Reflexiona: ¿Por qué <span style="color:#0033cc;">IVA</span> está en mayúsculas?</p>
 <pre>...</pre>
 
-<h3>Paso 3: Identificadores válidos </h3>
+<h3>Paso 3: Reconocer identificadores válidos y no válidos </h3>
 <p>Lista de ejemplos:</p>
 <table style="width:100%; border:1px solid #ccc; border-collapse:collapse;">
 <tr style="background-color:#d9f2e6;">
@@ -102,7 +102,7 @@ FinAlgoritmo
 
 
 <div style="background-color:#f2f2f2; padding:15px; border-radius:8px;">
-<h2 style="color:#009966;">Convenciones de programación</h2>
+<h2 style="color:#009966;">4 - Convenciones de programación</h2>
  <p>Las convenciones de programación son un conjunto de reglas de estilo y prácticas que guían la escritura de código para que sea más legible, coherente y fácil de mantener. Estas son las más comunes:
 </p>
 </div>
@@ -119,7 +119,7 @@ FinAlgoritmo
  
 
 <div style="background-color:#e6f2f2; padding:15px; border-radius:8px;">
-<h2 style="color:#0066cc;">Autoevaluación</h2>
+<h2 style="color:#0066cc;">5 - Repaso final [Autoevaluación]</h2>
 <ol>
 <li>Declara tres variables con tu nombre, edad y ciudad, y muéstralas.</li>
 <li>Calcula el área de un rectángulo usando constantes para la base y la altura.</li>
@@ -137,7 +137,7 @@ FinAlgoritmo
 ---
 
 <div style="background-color:#d9f2e6; padding:15px; border-radius:8px;">
-<h2 style="color:#006633;"> Recopilemos... </h2>
+<h2 style="color:#006633;"> 6 - Lo importante... </h2>
 <table style="width:100%; border:1px solid #ccc; border-collapse:collapse;">
 <tr style="background-color:#ccece6;">
 <th style="border:1px solid #ccc; padding:4px;">Concepto</th>
