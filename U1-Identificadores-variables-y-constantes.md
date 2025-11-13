@@ -4,32 +4,16 @@ Al finalizar esta unidad sabrás hacer:
 - *Reconocer los elementos y estructuras básicas de un programa informático*
 - *Escribir programas sencillos aplicando buenas prácticas en el uso de variables y constantes*
 
-<!--
-<div style="background-color:#ccece6; padding:15px; border-radius:8px;">
-<h2 style="color:#006633;"> Lo que sabrás hacer al finalizar esta unidad</h2>
-<ul>
-<li>Reconocer los elementos y estructuras básicas de un programa informático.</li>
-<li>Escribir programas sencillos aplicando buenas prácticas en el uso de variables y constantes.</li>
-</ul>
-</div>
--->
 ---
+  
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+## Objetivos
+ 
+- Comprender qué son las variables y las constantes.
+- Aprender a elegir identificadores válidos y descriptivos.
+- Diferenciar entre tipos de datos: numéricos, texto, booleanos.
+- Aplicar estos conceptos en pequeños algoritmos prácticos.
 
-      
-
-<div style="background-color:#f2f2f2; padding:15px; border-radius:8px;">
-<h2 style="color:#009966;"> Objetivos</h2>
-<ul>
-<li>Comprender qué son las variables y las constantes.</li>
-<li>Aprender a elegir identificadores válidos y descriptivos.</li>
-<li>Diferenciar entre tipos de datos: numéricos, texto, booleanos.</li>
-<li>Aplicar estos conceptos en pequeños algoritmos prácticos.</li>
-</ul>
-</div>
 
 ---
 
@@ -118,18 +102,18 @@ FinAlgoritmo
 
 
 <div style="background-color:#f2f2f2; padding:15px; border-radius:8px;">
-<h2 style="color:#009966;">Convenciones de código</h2>
- <p>Las convenciones de programación son un conjunto de reglas de estilo y prácticas que guían la escritura de código para que sea más legible, coherente y fácil de mantener. Estas son algunas de las principales:
+<h2 style="color:#009966;">Convenciones de programación</h2>
+ <p>Las convenciones de programación son un conjunto de reglas de estilo y prácticas que guían la escritura de código para que sea más legible, coherente y fácil de mantener. Estas son las más comunes:
 </p>
- <ul>
-<li>Uso de sangría</li>
-<li>Uso de comentarios</li>
-<li>Nombres estandarizados para variables y funciones</li>
-<li>Usar nombres descriptivos y coherentes</li>
-<li>Usar mayúsculas para las constantes</li>
-</ul>
- </div>
+</div>
  
+- [ ] Identación de código o sangrías
+- [ ] Comentar el código 
+- [ ] Nombres estandarizados para variables y funciones
+- [ ] Usar nombres descriptivos y coherentes
+- [ ] Las constantes en mayúsculas
+
+
  ---
  
  
@@ -160,15 +144,23 @@ FinAlgoritmo
 <th style="border:1px solid #ccc; padding:4px;">Descripción</th>
 <th style="border:1px solid #ccc; padding:4px;">Ejemplo</th>
 </tr>
-<tr><td style="border:1px solid #ccc; padding:4px;">Identificador</td><td style="border:1px solid #ccc; padding:4px;">Nombre de variable o constante</td><td style="border:1px solid #ccc; padding:4px;">nombre_usuario</td></tr>
-<tr><td style="border:1px solid #ccc; padding:4px;">Variable</td><td style="border:1px solid #ccc; padding:4px;">Dato que puede cambiar</td><td style="border:1px solid #ccc; padding:4px;">edad <- 18</td></tr>
-<tr><td style="border:1px solid #ccc; padding:4px;">Constante</td><td style="border:1px solid #ccc; padding:4px;">Dato fijo que no cambia</td><td style="border:1px solid #ccc; padding:4px;">PI <- 3.1416</td></tr>
-<tr><td style="border:1px solid #ccc; padding:4px;">Tipo de dato</td><td style="border:1px solid #ccc; padding:4px;">Define el tipo de valor</td><td style="border:1px solid #ccc; padding:4px;">Entero, Real, Cadena, Lógico</td></tr>
+<tr><td style="border:1px solid #ccc; padding:4px;">Identificador</td><td style="border:1px solid #ccc; padding:4px;">Nombre de variable o constante</td><td style="border:1px solid #ccc; padding:4px;"><code>nombre_usuario</code></td></tr>
+<tr><td style="border:1px solid #ccc; padding:4px;">Variable</td><td style="border:1px solid #ccc; padding:4px;">Valor que va cambiando en tiempo de ejecución</td><td style="border:1px solid #ccc; padding:4px;"><code>edad <- 18</code></td></tr>
+<tr><td style="border:1px solid #ccc; padding:4px;">Constante</td><td style="border:1px solid #ccc; padding:4px;">Valor fijo que no cambia</td><td style="border:1px solid #ccc; padding:4px;"><code>AÑO_NACIMIENTO</code> <- 1984</td></tr>
+<tr><td style="border:1px solid #ccc; padding:4px;">Tipo de dato</td><td style="border:1px solid #ccc; padding:4px;">Determina el tipo de valor</td><td style="border:1px solid #ccc; padding:4px;"><code>Número, Entero, Real, Cadena, Lógico</code></td></tr>
 </table>
 </div>
 
+<!--
+<div style="background-color:#ccece6; padding:15px; border-radius:8px;">
+<h2 style="color:#006633;"> Lo que sabrás hacer al finalizar esta unidad</h2>
+<ul>
+<li>Reconocer los elementos y estructuras básicas de un programa informático.</li>
+<li>Escribir programas sencillos aplicando buenas prácticas en el uso de variables y constantes.</li>
+</ul>
+</div>
+-->
 
 
-##
-
-<center> _&copy; 2025 - Fundamentos de Programación - Ezequiel Llarena Borges_ </center>
+##  
+_&copy; 2025 - Fundamentos de Programación - Ezequiel Llarena Borges_
